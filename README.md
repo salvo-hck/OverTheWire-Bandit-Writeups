@@ -1,10 +1,9 @@
-# OverTheWire-Bandit-Writeups
-My solutions and technical notes for the Bandit levels on OverTheWire
-
 OverTheWire Bandit Completion 🚩
 This repository contains my technical notes and solutions for the OverTheWire Bandit wargame.
 
+
 🛡️ Key Skills Demonstrated:
+
 Linux PrivEsc: Exploiting SUID binaries and cronjobs.
 
 Network Security: Using nc, and openssl for service discovery.
