@@ -4,7 +4,7 @@ This repository contains my technical notes and solutions for the OverTheWire Ba
 
 
 
-🛡️ Key Skills Demonstrated:
+🛡️ Key Skills:
 
 Linux PrivEsc: Exploiting SUID binaries and cronjobs.
 
